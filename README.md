@@ -1,5 +1,5 @@
-## Big Data Analtics - Class Problems
-Homework and project code from the Harvard Extension Big Data Analytics Course.
+## Big Data Analtics - Course Code
+Homework and project code written by *Katie House* for the Harvard Extension [Big Data Analytics Course](https://www.extension.harvard.edu/academics/courses/big-data-analytics/15499).
 
 <img src="https://www.extension.harvard.edu/sites/extension.harvard.edu/themes/extension/logo.png" alt="Harvard Extension Logo" height="74" width="181"/>
 
