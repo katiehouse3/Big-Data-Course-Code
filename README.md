@@ -7,9 +7,9 @@ Samples of homework scripts written by *Katie House* for the Harvard Extension [
 * P1, P2, etc. - Homework problem script
 * Output_P1 - Output of specific problem
 
-### Unit Description:
-* **EX 1: RStudio** - Utilize **R** to create Box Plots, Scatter Plots, Bar Charts, and Histograms of random distribution. 
-* **EX 2: Neo4J** - Utilize **Python** to create nodes, relationships, and schema for a Neo4J Graph Database.
-* **EX 3: Spark** - Utilize **PySpark** RDDs and Dataframes to compare Joyce's Ulysses and the Bible, and create a Product Table.
-* **EX 4: MLlib** - Utilize **MLlib** to create linear regression models for automitive characteristics and ride share count.
-* **EX 5: Tensorflow** - Utilize **Tensorflow** to estimate Euler's constant with Taylor Expansion and limits. 
+### Example Description:
+* **1_RStudio** - Utilize **R** to create Box Plots, Scatter Plots, Bar Charts, and Histograms of random distribution. 
+* **2_Neo4J** - Utilize **Python** to create nodes, relationships, and schema for a Neo4J Graph Database.
+* **3_Spark** - Utilize **PySpark** RDDs and Dataframes to compare Joyce's Ulysses and the Bible, and create a Product Table.
+* **4_MLlib** - Utilize **MLlib** to create linear regression models for automitive characteristics and ride share count.
+* **5_Tensorflow** - Utilize **Tensorflow** to estimate Euler's constant with Taylor Expansion and limits. 
