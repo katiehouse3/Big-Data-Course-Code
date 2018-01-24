@@ -8,7 +8,7 @@ Samples of homework scripts written by *Katie House* for the Harvard Extension [
 * Output_P1 - Output of specific problem
 
 ### Example Description:
-* **1_RStudio** - Utilize **R** to create Box Plots, Scatter Plots, Bar Charts, and Histograms of random distribution. 
+* **1_RStudio** - Utilize **R** to create Box Plots, Scatter Plots, Bar Charts, and Histograms of a random distribution. 
 * **2_Neo4J** - Utilize **Python** to create nodes, relationships, and schema for a Neo4J Graph Database.
 * **3_Spark** - Utilize **PySpark** RDDs and Dataframes to compare Joyce's Ulysses and the Bible, and create a Product Table.
 * **4_MLlib** - Utilize **MLlib** to create linear regression models for automitive characteristics and ride share count.
